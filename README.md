@@ -53,10 +53,8 @@ Follow these instructions to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/skriti-9700/student-management-system.git
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the URL of this GitHub repository.
 
 ### 2. Navigate to the Project Directory
 
